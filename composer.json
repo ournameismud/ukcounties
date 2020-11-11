@@ -1,0 +1,41 @@
+{
+    "name": "ournameismud/ukcounties",
+    "description": "Simple plugin to import UK counties into Craft Commerce",
+    "type": "craft-plugin",
+    "version": "1.0.0.",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "uk counties"
+    ],
+    "support": {
+        "docs": "https://github.com/ournameismud/ukcounties/blob/master/README.md",
+        "issues": "https://github.com/ournameismud/ukcounties/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "@cole007",
+            "homepage": "ournameismud.co.uk"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "ournameismud\\ukcounties\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "UK Counties",
+        "handle": "ukcounties",
+        "developer": "@cole007",
+        "developerUrl": "ournameismud.co.uk",
+        "documentationUrl": "https://github.com/ournameismud/ukcounties/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/ournameismud/ukcounties/master/CHANGELOG.md",
+        "class": "ournameismud\\ukcounties\\UkCounties"
+    }
+}
