@@ -2,11 +2,9 @@
 
 Simple plugin to import UK counties into Craft Commerce
 
-![Screenshot](resources/img/plugin-logo.png)
-
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-beta.23 or later.
+This plugin requires Craft CMS 3.0.0-beta.23 or later and Craft Commerce.
 
 ## Installation
 
@@ -24,19 +22,17 @@ To install the plugin, follow these instructions.
 
 ## UK Counties Overview
 
--Insert text here-
+Installing the plugin will add a list of UK (England, Scotland, Wales and Northern Ireland) counties as Craft Commerce "States".
 
 ## Configuring UK Counties
 
--Insert text here-
+There is no configuration. Just install the plugin and the states are added.
 
 ## Using UK Counties
 
--Insert text here-
+Install the plugin and the states are added. Uninstall and all UK/GB states are removed. Simple
 
 ## UK Counties Roadmap
-
-Some things to do, and ideas for potential features:
 
 * Release it
 
