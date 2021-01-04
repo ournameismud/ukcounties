@@ -2,7 +2,7 @@
     "name": "ournameismud/ukcounties",
     "description": "Simple plugin to import UK counties into Craft Commerce",
     "type": "craft-plugin",
-    "version": "1.0.0.",
+    "version": "1.0.0",
     "keywords": [
         "craft",
         "cms",

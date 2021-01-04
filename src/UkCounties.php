@@ -24,7 +24,7 @@ use yii\base\Event;
  *
  * @author    @cole007
  * @package   UkCounties
- * @since     1.0.0.
+ * @since     1.0.0
  *
  */
 class UkCounties extends Plugin
@@ -43,7 +43,7 @@ class UkCounties extends Plugin
     /**
      * @var string
      */
-    public $schemaVersion = '1.0.0.';
+    public $schemaVersion = '1.0.0';
 
     /**
      * @var bool

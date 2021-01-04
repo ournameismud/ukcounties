@@ -11,7 +11,7 @@
 /**
  * @author    @cole007
  * @package   UkCounties
- * @since     1.0.0.
+ * @since     1.0.0
  */
 return [
     'UK Counties plugin loaded' => 'UK Counties plugin loaded',
