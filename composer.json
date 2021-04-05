@@ -18,7 +18,7 @@
     "authors": [
         {
             "name": "@cole007",
-            "homepage": "ournameismud.co.uk"
+            "homepage": "https://ournameismud.co.uk/"
         }
     ],
     "require": {
@@ -33,7 +33,7 @@
         "name": "UK Counties",
         "handle": "ukcounties",
         "developer": "@cole007",
-        "developerUrl": "ournameismud.co.uk",
+        "developerUrl": "https://ournameismud.co.uk/",
         "documentationUrl": "https://github.com/ournameismud/ukcounties/blob/master/README.md",
         "changelogUrl": "https://raw.githubusercontent.com/ournameismud/ukcounties/master/CHANGELOG.md",
         "class": "ournameismud\\ukcounties\\UkCounties"
